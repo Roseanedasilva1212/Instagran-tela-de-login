@@ -10,7 +10,11 @@ Este é um projeto de uma página de login do Instagram, desenvolvido com HTML e
 
 ## Video 
 
-Uploading 17-51-10.mp4…
+
+
+https://github.com/user-attachments/assets/8684464c-0d82-4de9-8dcd-12d651452dd2
+
+
 
 
 
