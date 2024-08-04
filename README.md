@@ -8,10 +8,14 @@ Este é um projeto de uma página de login do Instagram, desenvolvido com HTML e
 - HTML5
 - CSS3
 
-## Video ##Imagem
+## Video 
+
+Uploading 17-51-10.mp4…
 
 
-[Captura de tela 2024-08-04 180216](https://github.com/user-attachments/assets/4b432237-21b8-46ac-a912-60b293a7e70b)
+
+
+
 
 
 
